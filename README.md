@@ -20,6 +20,10 @@
 
 ###
 
+<img align="right" height="200" src="https://github.com/DoraKokce/DoraKokce/blob/main/pet.gif?raw=true"  />
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
